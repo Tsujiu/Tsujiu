@@ -1,179 +1,132 @@
 # 👋 Olá, eu sou MuTsuJii!
 
-### 💻 Estudante de Engenharia de Software | Desenvolvedor em formação
+Estudante de **Engenharia de Software** e desenvolvedor em formação, atualmente focado em **C++** e na construção de uma base sólida em programação e desenvolvimento de software.
 
-Sou estudante de **Engenharia de Software** e estou construindo minha jornada no desenvolvimento de software.
-
-Atualmente, meu principal foco de estudo é **C++**, buscando entender melhor programação, lógica, estruturas de dados, orientação a objetos e os fundamentos necessários para me tornar um desenvolvedor melhor.
-
-Também gosto de explorar projetos relacionados a **games, servidores e engenharia reversa**, principalmente através dos meus projetos envolvendo **Zone 4** e **Metin2**.
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Software_Development-1f2937?style=flat-square&logo=github&logoColor=white" alt="Software Development" />
+  <img src="https://img.shields.io/badge/Engenharia_de_Software-1f2937?style=flat-square&logo=academia&logoColor=white" alt="Engenharia de Software" />
+</p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧑‍💻 Sobre mim
 
-* 🎓 Estudante de **Engenharia de Software**
-* 💻 Atualmente estudando **C++**
-* 🧠 Focado em aprender os fundamentos de programação
-* 🎮 Interessado em desenvolvimento e servidores de jogos
-* 🔧 Gosto de criar, modificar e entender sistemas existentes
-* 🧪 Gosto de experimentar novas ideias e tecnologias
-* 🚀 Sempre buscando evoluir como desenvolvedor
+Sou estudante de **Engenharia de Software**, atualmente concentrado em aprender **C++**, lógica de programação e os fundamentos necessários para evoluir como desenvolvedor.
+
+Tenho interesse principalmente em:
+
+- Desenvolvimento de software
+- Sistemas e servidores
+- Desenvolvimento e modificação de games
+- Arquitetura e funcionamento interno de sistemas
+- Resolução de problemas e engenharia reversa de conceitos
+- Aprender entendendo **como e por que as coisas funcionam**
+
+Atualmente, meus principais projetos e áreas de experimentação estão relacionados a **Zone 4** e **Metin2**.
+
+> Estou construindo minha experiência na prática, um projeto de cada vez.
 
 ---
 
-## 🛠️ Tecnologias
-
-### 📚 Atualmente estudando
+## 🛠️ Atualmente estudando
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
 </p>
 
-**C++** é atualmente minha principal linguagem de estudo.
-
-Meu objetivo é construir uma base sólida em:
-
-* 🔹 Lógica de programação
-* 🔹 Estruturas de dados
-* 🔹 Algoritmos
-* 🔹 Programação Orientada a Objetos
-* 🔹 Gerenciamento de memória
-* 🔹 STL
-* 🔹 Arquitetura e organização de software
-
-### 🔧 Ferramentas
+### 🔧 Tecnologias utilizadas em projetos
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=go,python,json,git,github,linux" alt="Go, Python, JSON, Git, GitHub e Linux" />
 </p>
+
+> Essas tecnologias aparecem nos meus projetos e experimentações. Meu foco principal de estudo atualmente é **C++**.
 
 ---
 
 ## 📚 O que estou estudando
 
-Atualmente estou concentrando meus estudos em **Engenharia de Software e C++**.
-
-Meu objetivo não é apenas aprender uma linguagem, mas entender os fundamentos por trás do desenvolvimento de software e, futuramente, conseguir trabalhar com projetos cada vez maiores e mais complexos.
-
-```text
-Engenharia de Software
-        │
-        ├── Programação
-        │      └── C++
-        │
-        ├── Algoritmos
-        │
-        ├── Estruturas de Dados
-        │
-        ├── Orientação a Objetos
-        │
-        └── Arquitetura de Software
-```
+- **C++**
+- Lógica de programação
+- Estruturas de dados
+- Algoritmos
+- Programação Orientada a Objetos
+- Engenharia de Software
+- Arquitetura de Software
+- Git e GitHub
 
 ---
 
-## 🎮 Meus Projetos
+## 🚀 Projetos
 
-### 🟢 Zone 4
+### 🎮 Zone 4
 
-Projeto relacionado ao desenvolvimento e manutenção de um servidor brasileiro de **Zone 4**.
+Projeto e experimentações relacionados ao **Zone 4**, envolvendo desenvolvimento de servidor, sistemas do jogo, comunicação entre componentes e manipulação de dados.
 
-O projeto envolve estudos e experimentações com servidor, comunicação entre cliente e servidor, sistemas do jogo e manipulação de dados.
+O projeto também serve como ambiente prático para estudar como sistemas de jogos e servidores funcionam internamente.
 
-**Tecnologias / conceitos:**
-
-`Go` `JSON` `Networking` `Game Server`
+**Status:** Em desenvolvimento / experimentação
 
 ---
 
-### 🔴 Metin2
+### ⚔️ Metin2
 
-Projetos e experimentações relacionados ao **Metin2**, envolvendo sistemas do jogo, quests, NPCs, itens, servidores e ferramentas auxiliares.
+Projetos e experimentações relacionados ao desenvolvimento e modificação de sistemas do **Metin2**.
 
-É também uma forma de colocar em prática conceitos de programação e entender melhor sistemas de jogos existentes.
+Entre os estudos e implementações estão conceitos envolvendo:
 
-**Tecnologias / conceitos:**
+- Quests
+- Itens
+- NPCs
+- Sistemas do jogo
+- Servidor
+- Manipulação de dados
 
-`C++` `Python` `Game Server` `Networking` `Game Systems`
+**Status:** Em desenvolvimento / experimentação
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=mutsujii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutsujii&layout=compact&langs_count=8&theme=tokyonight"
-/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mutsujii&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutsujii&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Languages" />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## ⭐ Projetos em destaque
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mutsujii&theme=tokyonight"
-  />
+  <!-- Substitua NOME_DO_REPOSITORIO_ZONE4 pelo nome real do repositório Zone 4 -->
+  <a href="https://github.com/mutsujii/NOME_DO_REPOSITORIO_ZONE4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mutsujii&repo=NOME_DO_REPOSITORIO_ZONE4&theme=tokyonight" alt="Zone 4" />
+  </a>
+
+  <!-- Substitua NOME_DO_REPOSITORIO_METIN2 pelo nome real do repositório Metin2 -->
+  <a href="https://github.com/mutsujii/NOME_DO_REPOSITORIO_METIN2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mutsujii&repo=NOME_DO_REPOSITORIO_METIN2&theme=tokyonight" alt="Metin2" />
+  </a>
 </p>
 
 ---
 
-## 🌟 Projetos em Destaque
-
-<p align="center">
-
-<a href="https://github.com/mutsujii">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mutsujii&repo=SEU_REPOSITORIO_ZONE4&theme=tokyonight"
-  />
-</a>
-
-<a href="https://github.com/mutsujii">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mutsujii&repo=SEU_REPOSITORIO_METIN2&theme=tokyonight"
-  />
-</a>
-
-</p>
-
-> 🔧 Substitua `SEU_REPOSITORIO_ZONE4` e `SEU_REPOSITORIO_METIN2` pelos nomes reais dos seus repositórios.
-
----
-
-## 📫 Como entrar em contato
+## 📫 Contato
 
 <p align="left">
-
-<a href="https://github.com/mutsujii">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://mutsujii.com">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
+  <a href="https://github.com/mutsujii">
+    <img src="https://img.shields.io/badge/GitHub-mutsujii-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://mutsujii.com">
+    <img src="https://img.shields.io/badge/Website-mutsujii.com-1f2937?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 ---
 
-## 💡 Filosofia
-
-> **"Aprender, construir, quebrar, entender e construir novamente."**
-
----
+> **"Aprender. Construir. Entender. Evoluir."**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mutsujii&label=Profile%20Views&style=flat" />
-</p>
-
-<p align="center">
-  🚀 <b>Construindo. Aprendendo. Evoluindo.</b>
+  🚀 Construindo, aprendendo e evoluindo.
 </p>

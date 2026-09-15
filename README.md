@@ -12,22 +12,24 @@ Estudante de **Engenharia de Software** e desenvolvedor em formação, atualment
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software**, atualmente concentrado em aprender **C++**, lógica de programação e os fundamentos necessários para evoluir como desenvolvedor.
+Sou estudante de **Engenharia de Software**, atualmente focado em aprender **C++** e construir uma base sólida em programação e desenvolvimento de software.
 
 Tenho interesse principalmente em:
 
 - Desenvolvimento de software
+- **Cibersegurança e segurança de sistemas**
 - Sistemas e servidores
 - Desenvolvimento e modificação de games
 - Arquitetura e funcionamento interno de sistemas
-- Resolução de problemas e engenharia reversa de conceitos
+- Redes e comunicação entre sistemas
+- Resolução de problemas e análise de sistemas
 - Aprender entendendo **como e por que as coisas funcionam**
 
 Atualmente, meus principais projetos e áreas de experimentação estão relacionados a **Zone 4** e **Metin2**.
 
-> Estou construindo minha experiência na prática, um projeto de cada vez.
+Meu objetivo é evoluir gradualmente, começando pelos fundamentos de programação e, com o tempo, aprofundando meus conhecimentos em **sistemas, segurança e desenvolvimento de software**.
 
----
+> Aprender como um sistema funciona também é aprender como protegê-lo.
 
 ## 🛠️ Atualmente estudando
 
